@@ -68,7 +68,7 @@ The Git history can be checked to verify the different dataset versions, commits
 **Q4 was completed as a collaboration between Partner A and Partner B.**
 
 - **Partner A:** Madhav AK — DA24B012
-- **Partner B:** Krish Dange — DA24B011
+- **Partner B:** Krish Dange — DA24B011 (me)
 
 All Q4 work was carried out in the following repository:
 
